@@ -1,5 +1,4 @@
-
-A **WhatsApp clone** built with Flutter, replicating the core features of the world's most popular messaging app.
+A **full-featured real-time messaging app** built with Flutter — supporting text, voice and video calls, live location sharing, and file transfer across mobile, web and desktop.
 
 ## ✨ Features
 
@@ -130,7 +129,7 @@ Contributions are welcome! If you'd like to improve the project:
 
 ## 📄 License
 
-This project is for educational and personal use only. It is not affiliated with WhatsApp or Meta.
+This project is licensed for educational and personal use.
 
 ---
 
